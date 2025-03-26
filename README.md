@@ -1,1 +1,3 @@
-# mi-pagina-web
+# Javier Mellado Navarro
+## Biografía
+Soy Javier, un hombre chileno de 21 años. Nací en Santiago de Chile en el mes de mayo. Cuando era pequeño vivía en Maipu, y luego por cosas de la vida, me mudé a un lugar llamado Ciudad de los Valles, llevo casi toda mi vida viviendo allí. Estudié toda la enseñanza básica y media en un colegio que se llamaba Manquecura, este quedaba muy cerca de donde vivía. En mi ultimo año de enseñanza media, tuve el privilegio de inscribirme a un preuniversitario y sumando el apoyo académico del colegio, me fue bastante bien en la prueba para entrar a la universidad. Gracias a ello fui capaz de entrar a la universidad católica
