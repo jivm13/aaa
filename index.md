@@ -1,6 +1,4 @@
 ---
-theme: minima
-title: Página Web
-author: Javier Mellado
-description: Página web para la tarea
+title: Página web
 ---
+theme: minima
